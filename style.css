@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+}
+
+header .left-side-header img {
+    width: 45%;
+}
+
+header .left-side-header {
+    margin-left: 3%;
+}
+
+header .right-side-header {
+    padding-top: 1%;
+}
+
+header .right-side-header input {
+    padding: 0.5rem;
+    border: solid 0.5px rgba(7, 40, 145, 0.13);
+    margin-right: 25px;
+}
+
+header .right-side-header button {
+    padding: 0.7rem;
+    margin-right: 25px;
+    border: none;
+    border-radius: 29%;
+    background-color: rgba(0, 60, 255, 0.48);
+    color: white;
+}
+
+header .right-side-header p a {
+    text-decoration: none;
+    color: black;
+    margin-top: 2px;
+    margin-left: 41%;
+}
+
+
+.about-us video {
+    width: 100%;
+    height: 587px;
+}
+
+.about-us {
+    background-color: rgba(0, 60, 255, 0.48);
+}
